@@ -26,7 +26,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: SK-GS
+      url: https://dnvtmf.github.io/SK_GS
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
